@@ -16,5 +16,6 @@
     "gpiozero==2.0.1"
   ],
   "ssdp": [],
-  "zeroconf": []
+  "zeroconf": [],
+  "version": "v0.0.0"
 }
